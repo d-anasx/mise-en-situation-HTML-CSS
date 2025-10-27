@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
+     font-family: "Rubik", sans-serif; 
 }
 
 h1:first-child{
@@ -57,6 +58,7 @@ h1:first-child{
 .center_cards  .card:first-child{
     border-top: 0.3em red solid;
 }
+
 
 @media (max-width : 1100px){
     .cards{
